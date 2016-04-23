@@ -2,7 +2,7 @@ Package.describe({
     name: 'cristo:auto-install-npm',
     version: '0.0.5',
     summary: 'Check and try auto install required npm packages at the app level',
-    git: 'https://github.com/tmeasday/auto-install-npm.git',
+    git: 'https://github.com/cristo-rabani/auto-install-npm',
     documentation: 'README.md'
 });
 
