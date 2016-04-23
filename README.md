@@ -8,7 +8,8 @@ After that, this package will call command: `meteor npm install`
 
 Take care that this package works only in develop mode (so you should launch in this mode meteor, once after adding new package)
 
-Additional important thing is permissions to package.js and of course this file should existed in project.
+Additional important things are permissions to package.js and of course this file should existed in project.
+
 ```js
 import autoInstallNpm from 'meteor/cristo:auto-install-npm';
 
